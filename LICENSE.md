@@ -1,6 +1,7 @@
 Software
 
-This license only applies to the code used for docker-publish.yml file. 
+This repository includes the docker-publish.yml script adapted from the dsci522-dockerfile-practice project by Tiffany A. Timbers. The accompanying text below is reproduced for attribution purposes only and applies solely to the docker-publish.yml script.
+https://github.com/ttimbers/dsci522-dockerfile-practice/tree/main
 
 Except where otherwise noted, the example programs and other software provided in the dsci522-dockerfile-practice repository are made available under the MIT license.
 
